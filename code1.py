@@ -1,0 +1,11 @@
+print("---My First Python Code---")
+print("Enter Your Name: ")
+name = input()
+print("hello " + name)
+print("Enter Your Age: ")
+age = input()
+print("Your age is "+ str(age))
+name1 = "sumna imran"
+print(name1.title())
+print(name1.upper())
+print(name1.lower())
